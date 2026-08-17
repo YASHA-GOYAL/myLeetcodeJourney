@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0877-stone-game](https://github.com/YASHA-GOYAL/myLeetcodeJourney/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/YASHA-GOYAL/myLeetcodeJourney/tree/master/1137-n-th-tribonacci-number) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/YASHA-GOYAL/myLeetcodeJourney/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 ## Dynamic Programming
 |  |
 | ------- |
