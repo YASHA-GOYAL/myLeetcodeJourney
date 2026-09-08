@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/YASHA-GOYAL/myLeetcodeJourney/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2574-left-and-right-sum-differences](https://github.com/YASHA-GOYAL/myLeetcodeJourney/tree/master/2574-left-and-right-sum-differences) |
 | [3731-find-missing-elements](https://github.com/YASHA-GOYAL/myLeetcodeJourney/tree/master/3731-find-missing-elements) |
+| [3903-smallest-stable-index-i](https://github.com/YASHA-GOYAL/myLeetcodeJourney/tree/master/3903-smallest-stable-index-i) |
 ## String
 |  |
 | ------- |
@@ -53,4 +54,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2574-left-and-right-sum-differences](https://github.com/YASHA-GOYAL/myLeetcodeJourney/tree/master/2574-left-and-right-sum-differences) |
+| [3903-smallest-stable-index-i](https://github.com/YASHA-GOYAL/myLeetcodeJourney/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
