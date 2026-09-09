@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/YASHA-GOYAL/myLeetcodeJourney/tree/master/0066-plus-one) |
+| [0412-fizz-buzz](https://github.com/YASHA-GOYAL/myLeetcodeJourney/tree/master/0412-fizz-buzz) |
 | [0877-stone-game](https://github.com/YASHA-GOYAL/myLeetcodeJourney/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/YASHA-GOYAL/myLeetcodeJourney/tree/master/1137-n-th-tribonacci-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/YASHA-GOYAL/myLeetcodeJourney/tree/master/2894-divisible-and-non-divisible-sums-difference) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/YASHA-GOYAL/myLeetcodeJourney/tree/master/0412-fizz-buzz) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/YASHA-GOYAL/myLeetcodeJourney/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3019-number-of-changing-keys](https://github.com/YASHA-GOYAL/myLeetcodeJourney/tree/master/3019-number-of-changing-keys) |
 ## Game Theory
@@ -57,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/YASHA-GOYAL/myLeetcodeJourney/tree/master/2574-left-and-right-sum-differences) |
 | [3903-smallest-stable-index-i](https://github.com/YASHA-GOYAL/myLeetcodeJourney/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/YASHA-GOYAL/myLeetcodeJourney/tree/master/3904-smallest-stable-index-ii) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/YASHA-GOYAL/myLeetcodeJourney/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
