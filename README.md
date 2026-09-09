@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/YASHA-GOYAL/myLeetcodeJourney/tree/master/0066-plus-one) |
+| [0169-majority-element](https://github.com/YASHA-GOYAL/myLeetcodeJourney/tree/master/0169-majority-element) |
 | [0877-stone-game](https://github.com/YASHA-GOYAL/myLeetcodeJourney/tree/master/0877-stone-game) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/YASHA-GOYAL/myLeetcodeJourney/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2574-left-and-right-sum-differences](https://github.com/YASHA-GOYAL/myLeetcodeJourney/tree/master/2574-left-and-right-sum-differences) |
@@ -48,10 +49,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/YASHA-GOYAL/myLeetcodeJourney/tree/master/0169-majority-element) |
 | [3731-find-missing-elements](https://github.com/YASHA-GOYAL/myLeetcodeJourney/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/YASHA-GOYAL/myLeetcodeJourney/tree/master/0169-majority-element) |
 | [3731-find-missing-elements](https://github.com/YASHA-GOYAL/myLeetcodeJourney/tree/master/3731-find-missing-elements) |
 ## Prefix Sum
 |  |
@@ -63,4 +66,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/YASHA-GOYAL/myLeetcodeJourney/tree/master/0412-fizz-buzz) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/YASHA-GOYAL/myLeetcodeJourney/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/YASHA-GOYAL/myLeetcodeJourney/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/YASHA-GOYAL/myLeetcodeJourney/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
