@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/YASHA-GOYAL/myLeetcodeJourney/tree/master/0412-fizz-buzz) |
+| [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/YASHA-GOYAL/myLeetcodeJourney/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/YASHA-GOYAL/myLeetcodeJourney/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2833-furthest-point-from-origin](https://github.com/YASHA-GOYAL/myLeetcodeJourney/tree/master/2833-furthest-point-from-origin) |
 | [3019-number-of-changing-keys](https://github.com/YASHA-GOYAL/myLeetcodeJourney/tree/master/3019-number-of-changing-keys) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/YASHA-GOYAL/myLeetcodeJourney/tree/master/0169-majority-element) |
+| [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/YASHA-GOYAL/myLeetcodeJourney/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [3731-find-missing-elements](https://github.com/YASHA-GOYAL/myLeetcodeJourney/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/YASHA-GOYAL/myLeetcodeJourney/tree/master/0169-majority-element) |
+| [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/YASHA-GOYAL/myLeetcodeJourney/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2833-furthest-point-from-origin](https://github.com/YASHA-GOYAL/myLeetcodeJourney/tree/master/2833-furthest-point-from-origin) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
