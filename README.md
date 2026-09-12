@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0877-stone-game](https://github.com/YASHA-GOYAL/myLeetcodeJourney/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/YASHA-GOYAL/myLeetcodeJourney/tree/master/1137-n-th-tribonacci-number) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/YASHA-GOYAL/myLeetcodeJourney/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Memoization
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/YASHA-GOYAL/myLeetcodeJourney/tree/master/0877-stone-game) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/YASHA-GOYAL/myLeetcodeJourney/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2574-left-and-right-sum-differences](https://github.com/YASHA-GOYAL/myLeetcodeJourney/tree/master/2574-left-and-right-sum-differences) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/YASHA-GOYAL/myLeetcodeJourney/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3731-find-missing-elements](https://github.com/YASHA-GOYAL/myLeetcodeJourney/tree/master/3731-find-missing-elements) |
 | [3903-smallest-stable-index-i](https://github.com/YASHA-GOYAL/myLeetcodeJourney/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/YASHA-GOYAL/myLeetcodeJourney/tree/master/3904-smallest-stable-index-ii) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/YASHA-GOYAL/myLeetcodeJourney/tree/master/0169-majority-element) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/YASHA-GOYAL/myLeetcodeJourney/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3731-find-missing-elements](https://github.com/YASHA-GOYAL/myLeetcodeJourney/tree/master/3731-find-missing-elements) |
 ## Prefix Sum
 |  |
@@ -83,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/YASHA-GOYAL/myLeetcodeJourney/tree/master/0169-majority-element) |
+## Binary Search
+|  |
+| ------- |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/YASHA-GOYAL/myLeetcodeJourney/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
