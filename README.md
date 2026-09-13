@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/YASHA-GOYAL/myLeetcodeJourney/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/YASHA-GOYAL/myLeetcodeJourney/tree/master/0169-majority-element) |
+| [0835-image-overlap](https://github.com/YASHA-GOYAL/myLeetcodeJourney/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/YASHA-GOYAL/myLeetcodeJourney/tree/master/0877-stone-game) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/YASHA-GOYAL/myLeetcodeJourney/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2574-left-and-right-sum-differences](https://github.com/YASHA-GOYAL/myLeetcodeJourney/tree/master/2574-left-and-right-sum-differences) |
@@ -90,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/YASHA-GOYAL/myLeetcodeJourney/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+## Matrix
+|  |
+| ------- |
+| [0835-image-overlap](https://github.com/YASHA-GOYAL/myLeetcodeJourney/tree/master/0835-image-overlap) |
 <!---LeetCode Topics End-->
