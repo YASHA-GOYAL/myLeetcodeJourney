@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/YASHA-GOYAL/myLeetcodeJourney/tree/master/0169-majority-element) |
 | [0835-image-overlap](https://github.com/YASHA-GOYAL/myLeetcodeJourney/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/YASHA-GOYAL/myLeetcodeJourney/tree/master/0877-stone-game) |
+| [1051-height-checker](https://github.com/YASHA-GOYAL/myLeetcodeJourney/tree/master/1051-height-checker) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/YASHA-GOYAL/myLeetcodeJourney/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2574-left-and-right-sum-differences](https://github.com/YASHA-GOYAL/myLeetcodeJourney/tree/master/2574-left-and-right-sum-differences) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/YASHA-GOYAL/myLeetcodeJourney/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/YASHA-GOYAL/myLeetcodeJourney/tree/master/0169-majority-element) |
+| [1051-height-checker](https://github.com/YASHA-GOYAL/myLeetcodeJourney/tree/master/1051-height-checker) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/YASHA-GOYAL/myLeetcodeJourney/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3731-find-missing-elements](https://github.com/YASHA-GOYAL/myLeetcodeJourney/tree/master/3731-find-missing-elements) |
 ## Prefix Sum
@@ -100,4 +102,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/YASHA-GOYAL/myLeetcodeJourney/tree/master/0836-rectangle-overlap) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/YASHA-GOYAL/myLeetcodeJourney/tree/master/1051-height-checker) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/YASHA-GOYAL/myLeetcodeJourney/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
