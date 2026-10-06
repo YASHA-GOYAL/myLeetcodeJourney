@@ -112,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/YASHA-GOYAL/myLeetcodeJourney/tree/master/1051-height-checker) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/YASHA-GOYAL/myLeetcodeJourney/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
